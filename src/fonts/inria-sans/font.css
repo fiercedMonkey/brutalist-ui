@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Inria Sans') url(./InriaSans-Regular.otf) format('opentype');
+}

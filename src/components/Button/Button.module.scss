@@ -1,0 +1,33 @@
+@import '../../index.scss';
+
+.btn {
+    font-weight: bold;
+    padding: 0.75rem;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    filter: drop-shadow(4px 3px #000000)
+}
+
+.primary {
+    background-color: $primary;
+}
+
+.secondary {
+    background-color: $secondary;
+}
+
+.info {
+    background-color: $info;
+}
+
+.danger {
+    background-color: $danger;
+}
+
+.success {
+    background-color: $success;
+}
+
+.fullwidth {
+    width: 100%;
+}
